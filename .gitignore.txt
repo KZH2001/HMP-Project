@@ -1,0 +1,10 @@
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+*.class
+target/
+bin/
+node_modules/
+.settings/
+.project
+.classpath
