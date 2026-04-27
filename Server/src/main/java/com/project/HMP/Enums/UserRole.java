@@ -1,4 +1,4 @@
-package Enum;
+package com.project.HMP.Enums;
 
 public enum UserRole {
 	ADMIN,
