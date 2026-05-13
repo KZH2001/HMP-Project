@@ -11,4 +11,3 @@ private String email;
 private String name;
 private UserRole userRole;
 }
-//
